@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gai", "Gai\Gai.csproj", "{5B6797A5-521F-4FE5-8535-204FF47F4C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B6797A5-521F-4FE5-8535-204FF47F4C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6797A5-521F-4FE5-8535-204FF47F4C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6797A5-521F-4FE5-8535-204FF47F4C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6797A5-521F-4FE5-8535-204FF47F4C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {627544D4-47B4-49C2-AC70-10981B6BBDEC}
+	EndGlobalSection
+EndGlobal
